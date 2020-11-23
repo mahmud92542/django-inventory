@@ -79,11 +79,11 @@ WSGI_APPLICATION = 'inventoryapp.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'stockmanagement',
-        'USER': 'root',
-        'PASSWORD': 'KvICkcKLA3EqI5Ix9RCC',
-        'HOST': 'inventory.cqyowx28fgf8.ap-southeast-1.rds.amazonaws.com',
-        'PORT': '3306',
+        'NAME': '',
+        'USER': '',
+        'PASSWORD': '',
+        'HOST': '',
+        'PORT': '',
     }
 }
 
